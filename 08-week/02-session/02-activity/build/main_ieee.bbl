@@ -16,5 +16,195 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{vera2022arquitectura}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4567c46404b7a3811d0affe6e3c2bafc}{%
+           family={Vera\bibnamedelima Vera},
+           familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={José\bibnamedelima Belisario},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{fullhash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{fullhashraw}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{bibnamehash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{authorbibnamehash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{authornamehash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{authorfullhash}{4567c46404b7a3811d0affe6e3c2bafc}
+      \strng{authorfullhashraw}{4567c46404b7a3811d0affe6e3c2bafc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dialnet}
+      \field{title}{Arquitectura de software con programación orientada a objeto}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9257807
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9257807
+      \endverb
+    \endentry
+    \entry{gavilanez2022analisis}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a41840740acde4934f63599f9696e1ea}{%
+           family={Gavilánez\bibnamedelima Álvarez},
+           familyi={G\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           given={O.\bibnamedelimi D.},
+           giveni={O\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a8dd9da15de4919d4ffe95e52d690cfb}{%
+           family={Layedra},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fcc0712d606c709ec368ea3ead90c2c8}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{244a54f8acff4048fb44ece6cd1b3b23}
+      \strng{fullhash}{e76a2baa99bb25ca1068482750584c03}
+      \strng{fullhashraw}{e76a2baa99bb25ca1068482750584c03}
+      \strng{bibnamehash}{e76a2baa99bb25ca1068482750584c03}
+      \strng{authorbibnamehash}{e76a2baa99bb25ca1068482750584c03}
+      \strng{authornamehash}{244a54f8acff4048fb44ece6cd1b3b23}
+      \strng{authorfullhash}{e76a2baa99bb25ca1068482750584c03}
+      \strng{authorfullhashraw}{e76a2baa99bb25ca1068482750584c03}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dialnet}
+      \field{title}{Análisis comparativo de Patrones de Diseño de Software}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9042927
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=9042927
+      \endverb
+    \endentry
+    \entry{marco2022revision}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a4e9278cfbc1e1f028c0be690bdaa6d6}{%
+           family={Vinicio},
+           familyi={V\bibinitperiod},
+           given={E.V\bibnamedelima Marco},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1af30417bcdf05a528735825bff9abd0}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Núñez},
+           giveni={N\bibinitperiod}}}%
+        {{hash=436174ed779908dae1cedb63b35d93cd}{%
+           family={Alexandra},
+           familyi={A\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2e2157b9b02065a0115fedbbd6d25994}{%
+           family={C.},
+           familyi={C\bibinitperiod},
+           given={Saltos},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cd49088bcdbb61a9cac69b4cb3b7b2f9}{%
+           family={C},
+           familyi={C\bibinitperiod},
+           given={Pedro\bibnamedelimb R.\bibnamedelimi Cunuhay},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=74e70f6a5949f814199924ed21d6938d}{%
+           family={C.},
+           familyi={C\bibinitperiod},
+           given={Wilmer},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{926cacd495eade3b25d2ff6b2de8dcbc}
+      \strng{fullhash}{90aea31c8e17b936e34513d607eab781}
+      \strng{fullhashraw}{90aea31c8e17b936e34513d607eab781}
+      \strng{bibnamehash}{90aea31c8e17b936e34513d607eab781}
+      \strng{authorbibnamehash}{90aea31c8e17b936e34513d607eab781}
+      \strng{authornamehash}{926cacd495eade3b25d2ff6b2de8dcbc}
+      \strng{authorfullhash}{90aea31c8e17b936e34513d607eab781}
+      \strng{authorfullhashraw}{90aea31c8e17b936e34513d607eab781}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dialnet}
+      \field{title}{Revisión sistemática de la metodología para el desarrollo de software}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=8384028
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=8384028
+      \endverb
+    \endentry
+    \entry{merchan2022comparacion}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=71347c7d6c2de759780134603f998461}{%
+           family={Merchán-Narváez},
+           familyi={M\bibinithyphendelim N\bibinitperiod},
+           given={Nancy\bibnamedelima Jhanina},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{71347c7d6c2de759780134603f998461}
+      \strng{fullhash}{71347c7d6c2de759780134603f998461}
+      \strng{fullhashraw}{71347c7d6c2de759780134603f998461}
+      \strng{bibnamehash}{71347c7d6c2de759780134603f998461}
+      \strng{authorbibnamehash}{71347c7d6c2de759780134603f998461}
+      \strng{authornamehash}{71347c7d6c2de759780134603f998461}
+      \strng{authorfullhash}{71347c7d6c2de759780134603f998461}
+      \strng{authorfullhashraw}{71347c7d6c2de759780134603f998461}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Investigarmqr}
+      \field{title}{Comparación de metodologías ágiles para el desarrollo de software}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.investigarmqr.com/ojs/index.php/mqr/article/view/1159/4270
+      \endverb
+      \verb{url}
+      \verb https://www.investigarmqr.com/ojs/index.php/mqr/article/view/1159/4270
+      \endverb
+    \endentry
+    \entry{zambrano_patron}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f7e56ec32fddbdfe47ab0d35d8b3a8ed}{%
+           family={Zambrano},
+           familyi={Z\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{fullhash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{fullhashraw}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{bibnamehash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{authorbibnamehash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{authornamehash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{authorfullhash}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \strng{authorfullhashraw}{f7e56ec32fddbdfe47ab0d35d8b3a8ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academia.edu}
+      \field{title}{Patrón Modelo-Vista-Controlador}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.academia.edu/16101634/Patr\%C3\%B3n_Modelo_Vista_Controlador
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/16101634/Patr%5C%C3%5C%B3n_Modelo_Vista_Controlador
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

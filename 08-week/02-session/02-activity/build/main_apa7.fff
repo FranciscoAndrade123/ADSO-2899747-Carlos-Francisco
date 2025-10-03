@@ -2,7 +2,7 @@
 \ifnextchar[{\eatarg}{}
 [htbp]
     \centering
-    \includegraphics[width=0.8\textwidth]{graphics/mvc.jpeg}
+    \includegraphics[width=0.48\textwidth]{graphics/MVC.pdf}
     \caption{Modelo vista controlador}
     \label{fig:mvc}
 \end{figure*}
@@ -12,7 +12,7 @@
 \ifnextchar[{\eatarg}{}
 [htbp]
     \centering
-    \includegraphics[width=0.8\textwidth]{graphics/trello.jpeg}
-    \caption{Tablero trello}
-    \label{fig:trello}
+    \includegraphics[width=0.48\textwidth]{graphics/SCRUM.pdf}
+    \caption{Ciclo de Scrum}
+    \label{fig:scrum}
 \end{figure*}

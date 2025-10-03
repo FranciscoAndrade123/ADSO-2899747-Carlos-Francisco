@@ -4,7 +4,6 @@ The top-level auxiliary file: main_acm.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 The style file: ACM-Reference-Format.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
-I found no \citation commands---while reading file main_acm.aux
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
@@ -15,45 +14,55 @@ Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 0 entries,
+Warning--no number and no volume in gavilanez2022analisis
+Warning--page numbers missing in both pages and numpages fields in gavilanez2022analisis
+Warning--no number and no volume in merchan2022comparacion
+Warning--page numbers missing in both pages and numpages fields in merchan2022comparacion
+Warning--no number and no volume in vera2022arquitectura
+Warning--page numbers missing in both pages and numpages fields in vera2022arquitectura
+Warning--no number and no volume in marco2022revision
+Warning--page numbers missing in both pages and numpages fields in marco2022revision
+Warning--no number and no volume in zambrano_patron
+Warning--page numbers missing in both pages and numpages fields in zambrano_patron
+You've used 5 entries,
             6273 wiz_defined-function locations,
-            1516 strings with 18149 characters,
-and the built_in function-call counts, 103 in all, are:
-= -- 0
-> -- 0
+            1541 strings with 19124 characters,
+and the built_in function-call counts, 5152 in all, are:
+= -- 805
+> -- 137
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 14
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 1
-empty$ -- 1
-format.name$ -- 0
-if$ -- 2
++ -- 41
+- -- 48
+* -- 330
+:= -- 456
+add.period$ -- 25
+call.type$ -- 5
+change.case$ -- 32
+chr.to.int$ -- 5
+cite$ -- 15
+duplicate$ -- 421
+empty$ -- 311
+format.name$ -- 56
+if$ -- 1361
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 39
-num.names$ -- 0
-pop$ -- 1
+missing$ -- 20
+newline$ -- 99
+num.names$ -- 35
+pop$ -- 193
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 72
 quote$ -- 0
-skip$ -- 1
+skip$ -- 121
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 275
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
+type$ -- 80
+warning$ -- 10
+while$ -- 27
 width$ -- 0
-write$ -- 38
-(There was 1 error message)
+write$ -- 148
+(There were 10 warnings)

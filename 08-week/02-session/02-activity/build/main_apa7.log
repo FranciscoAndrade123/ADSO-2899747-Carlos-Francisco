@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 11:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 17:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1402,6 +1402,9 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
 [2] (sections/01_introduccion.tex) (sections/02_relacionados.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (15.2pt): 
@@ -1419,7 +1422,7 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[4]) (sections/03_metodologia.tex
+[4]
 
 
 Package fancyhdr Warning: \headheight is too small (15.2pt): 
@@ -1428,10 +1431,7 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[5]) (sections/04_implementacion.tex
-Underfull \vbox (badness 3977) has occurred while \output is active []
-
-
+[5]) (sections/03_metodologia.tex) (sections/04_implementacion.tex
 
 
 Package fancyhdr Warning: \headheight is too small (15.2pt): 
@@ -1440,7 +1440,7 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[6]) (sections/05_resultados.tex
+[6]
 
 
 Package fancyhdr Warning: \headheight is too small (15.2pt): 
@@ -1449,7 +1449,7 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[7]
+[7]) (sections/05_resultados.tex
 \openout5 = `main_apa7.fff'.
 
  (main_apa7.fff)
@@ -1471,9 +1471,18 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[9] (C:\Users\USER\OneDrive\Desktop\articulo\build\main_apa7.fff
-File: graphics/mvc.jpeg Graphic file (type bmp)
-<graphics/mvc.jpeg>
+[9]
+
+
+Package fancyhdr Warning: \headheight is too small (15.2pt): 
+(fancyhdr)                Make it at least 15.21004pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.21004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
+
+[10] (C:\Users\USER\OneDrive\Desktop\articulo\build\main_apa7.fff
+File: graphics/MVC.pdf Graphic file (type pdf)
+<use graphics/MVC.pdf>
 
 
 
@@ -1483,14 +1492,56 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[10
+[11
 
 ]
-File: graphics/trello.jpeg Graphic file (type bmp)
-<graphics/trello.jpeg>
+File: graphics/SCRUM.pdf Graphic file (type pdf)
+<use graphics/SCRUM.pdf>
 ))
 
-LaTeX Warning: Empty bibliography on input line 28.
+
+Package fancyhdr Warning: \headheight is too small (15.2pt): 
+(fancyhdr)                Make it at least 15.21004pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.21004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
+
+[12
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+8.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmr' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+8.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+28.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+28.
+
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 28.
 
 AED endfloat: Processing end Figures and Tables
 
@@ -1501,7 +1552,8 @@ Package fancyhdr Warning: \headheight is too small (15.2pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.01004pt}.
 
-[11
+[13
+
 
 ] (C:\Users\USER\OneDrive\Desktop\articulo\build\main_apa7.aux
 LaTeX Info: Redefining \sptext on input line 12.
@@ -1519,13 +1571,13 @@ Package logreq Info: Writing requests to 'main_apa7.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42912 strings out of 403246
- 901583 string characters out of 5460988
- 1877172 words of memory out of 5000000
- 70874 multiletter control sequences out of 15000+600000
- 630216 words of font info for 46 fonts, out of 8000000 for 9000
+ 43310 strings out of 403246
+ 910423 string characters out of 5460988
+ 1877659 words of memory out of 5000000
+ 71244 multiletter control sequences out of 15000+600000
+ 652043 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,105p,1199b,3985s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,105p,1309b,5021s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:\Users\USER\OneDrive\Desktop\articulo\build\main_apa7.xdv (
-11 pages, 167836 bytes).
+13 pages, 185820 bytes).

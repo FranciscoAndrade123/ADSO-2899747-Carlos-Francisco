@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 11:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 17:55
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1993,10 +1993,10 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 
 (C:\Users\USER\OneDrive\Desktop\articulo\build\main_acm.aux
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 11.
+(babel)             Reported on input line 20.
 )
 \openout1 = `main_acm.aux'.
 
@@ -2177,13 +2177,9 @@ LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 24.
 
-(sections/00_abstract.tex) (sections/01_introduccion.tex)
-(sections/02_relacionados.tex
+(sections/00_abstract.tex) (sections/01_introduccion.tex
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+) (sections/02_relacionados.tex
 
 [1.1
 
@@ -2197,37 +2193,43 @@ LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
 
 
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 26.
+(Font)              scaled to size 7.0pt on input line 24.
 [2.2]) (sections/05_resultados.tex
-File: graphics/mvc.jpeg Graphic file (type bmp)
-<graphics/mvc.jpeg>
+File: graphics/MVC.pdf Graphic file (type pdf)
+<use graphics/MVC.pdf>
 
-Overfull \hbox (163.89005pt too wide) in paragraph at lines 9--10
+Overfull \hbox (1.87193pt too wide) in paragraph at lines 9--10
  [][] 
  []
 
 
 Class acmart Warning: A possible image without description on input line 12.
 
+File: graphics/SCRUM.pdf Graphic file (type pdf)
+<use graphics/SCRUM.pdf>
 
-
-File: graphics/trello.jpeg Graphic file (type bmp)
-<graphics/trello.jpeg>
-
-Overfull \hbox (163.89005pt too wide) in paragraph at lines 21--22
+Overfull \hbox (1.87193pt too wide) in paragraph at lines 21--22
  [][] 
  []
 
 
 Class acmart Warning: A possible image without description on input line 24.
 
-) (sections/06_discusion.tex) (sections/07_conclusiones.tex
+) (sections/06_discusion.tex
 
-[3.3]) (sections/A1_apendices.tex)
+) (sections/07_conclusiones.tex) (sections/A1_apendices.tex)
 (C:\Users\USER\OneDrive\Desktop\articulo\build\main_acm.bbl
+Underfull \vbox (badness 1337) has occurred while \output is active []
 
-Package natbib Warning: Empty `thebibliography' environment on input line 39.
 
+
+[3.3]
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 46.
+LaTeX Info: Redefining \tempurl on input line 63.
+LaTeX Info: Redefining \tempurl on input line 77.
+LaTeX Info: Redefining \tempurl on input line 93.
+LaTeX Info: Redefining \tempurl on input line 106.
 )
 
 Class acmart Warning: Some images may lack descriptions.
@@ -2249,7 +2251,10 @@ ence can ingest your work..
 
 
 
-Overfull \vbox (1.58725pt too high) has occurred while \output is active []
+Overfull \vbox (75.43149pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (75.43149pt too high) has occurred while \output is active []
 
 
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.de
@@ -2260,8 +2265,8 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ef
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 ) [4.4] (C:\Users\USER\OneDrive\Desktop\articulo\build\main_acm.aux
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 )
  ***********
 LaTeX2e <2025-06-01> patch level 1
@@ -2271,13 +2276,13 @@ Package rerunfilecheck Info: File `main_acm.out' has not changed.
 (rerunfilecheck)             Checksum: F76369F16F1F6D4ADB9561E365627F36;4727.
  ) 
 Here is how much of TeX's memory you used:
- 41639 strings out of 403246
- 843289 string characters out of 5460988
- 1381173 words of memory out of 5000000
- 69492 multiletter control sequences out of 15000+600000
- 633560 words of font info for 137 fonts, out of 8000000 for 9000
+ 41669 strings out of 403246
+ 844015 string characters out of 5460988
+ 1382173 words of memory out of 5000000
+ 69522 multiletter control sequences out of 15000+600000
+ 633568 words of font info for 138 fonts, out of 8000000 for 9000
  1509 hyphenation exceptions out of 8191
- 105i,13n,131p,1198b,32968s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,13n,131p,1266b,32968s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:\Users\USER\OneDrive\Desktop\articulo\build\main_acm.xdv (4
- pages, 187068 bytes).
+ pages, 205948 bytes).
