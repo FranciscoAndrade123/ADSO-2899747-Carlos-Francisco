@@ -1,0 +1,18 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphics/mvc.jpeg}
+    \caption{Modelo vista controlador}
+    \label{fig:mvc}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphics/trello.jpeg}
+    \caption{Tablero trello}
+    \label{fig:trello}
+\end{figure*}
