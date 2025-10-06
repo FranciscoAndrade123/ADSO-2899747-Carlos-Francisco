@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 17:54
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  6 OCT 2025 11:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -819,10 +819,10 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (C:\Users\USER\OneDrive\Desktop\articulo\build\main_ieee.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 26.
+(babel)             Reported on input line 24.
 )
 \openout1 = `main_ieee.aux'.
 
@@ -965,7 +965,7 @@ Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
 
 (sections/00_abstract.tex)
-Underfull \hbox (badness 1400) in paragraph at lines 23--25
+Underfull \hbox (badness 1400) in paragraph at lines 24--26
 []\TU/lmr/bx/it/9 Index Terms\TU/lmr/bx/n/9 —Patrones de diseño, Programación
  []
 
@@ -996,14 +996,14 @@ File: graphics/SCRUM.pdf Graphic file (type pdf)
 [3]) (sections/07_conclusiones.tex) (sections/A1_apendices.tex)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
+(Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 36.
+(Font)              <5> on input line 37.
 (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Underfull \hbox (badness 2318) in paragraph at lines 37--37
+Underfull \hbox (badness 2318) in paragraph at lines 38--38
 \TU/lmr/m/it/10 Academia.edu\TU/ptm/bx/it/10 , 2014. dirección: []$[][][][][] [
 ] [] [] [][][] []
  []
@@ -1022,9 +1022,9 @@ Before submitting the final camera ready copy, remember to:
 
 
 [4] (C:\Users\USER\OneDrive\Desktop\articulo\build\main_ieee.aux
-LaTeX Info: Redefining \sptext on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \sptext on input line 24.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 )
  ***********
 LaTeX2e <2025-06-01> patch level 1
@@ -1043,11 +1043,11 @@ Package logreq Info: Writing requests to 'main_ieee.run.xml'.
 Here is how much of TeX's memory you used:
  31552 strings out of 403246
  663314 string characters out of 5460988
- 1586020 words of memory out of 5000000
+ 1584020 words of memory out of 5000000
  59706 multiletter control sequences out of 15000+600000
  627513 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,8n,83p,1310b,4925s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:\Users\USER\OneDrive\Desktop\articulo\build\main_ieee.xdv (
-4 pages, 179832 bytes).
+4 pages, 180232 bytes).

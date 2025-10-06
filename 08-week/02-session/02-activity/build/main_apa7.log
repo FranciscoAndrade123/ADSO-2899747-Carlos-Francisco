@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  3 OCT 2025 17:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.10.2)  6 OCT 2025 11:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1573,11 +1573,11 @@ Package logreq Info: Writing requests to 'main_apa7.run.xml'.
 Here is how much of TeX's memory you used:
  43310 strings out of 403246
  910423 string characters out of 5460988
- 1877659 words of memory out of 5000000
+ 1877729 words of memory out of 5000000
  71244 multiletter control sequences out of 15000+600000
  652043 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,105p,1309b,5021s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on C:\Users\USER\OneDrive\Desktop\articulo\build\main_apa7.xdv (
-13 pages, 185820 bytes).
+13 pages, 186252 bytes).

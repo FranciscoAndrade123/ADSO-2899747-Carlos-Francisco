@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber build/main_ieee"] 1759532078.54759 "build/main_ieee.bcf" "build/main_ieee.bbl" "build/main_ieee" 1759532099.94639 0
+["biber build/main_ieee"] 1759768082.40655 "build/main_ieee.bcf" "build/main_ieee.bbl" "build/main_ieee" 1759768108.2334 0
   "bibliography/references.bib" 1759501844 1464 178e19f59a8a969d686533fe002a5ac7 ""
-  "build/main_ieee.bcf" 1759532098 108712 3c1d8910d5706bdb315c35f76fce75b2 "xelatex"
+  "build/main_ieee.bcf" 1759768107 108712 3c1d8910d5706bdb315c35f76fce75b2 "xelatex"
   (generated)
   "build/main_ieee.bbl"
   "build/main_ieee.blg"
   (rewritten before read)
-["xdvipdfmx"] 1759532099.37187 "build/main_ieee.xdv" "build/main_ieee.pdf" "build/main_ieee" 1759532099.95929 0
-  "build/main_ieee.xdv" 1759532098 179832 f3b0008e5cd0005870e47509493337a6 "xelatex"
+["xdvipdfmx"] 1759768107.56307 "build/main_ieee.xdv" "build/main_ieee.pdf" "build/main_ieee" 1759768108.24511 0
+  "build/main_ieee.xdv" 1759768107 180232 104429f6e10468cd9014c7b32119f907 "xelatex"
   (generated)
   "build/main_ieee.pdf"
   (rewritten before read)
-["xelatex"] 1759532093.70564 "main_ieee.tex" "build/main_ieee.xdv" "main_ieee" 1759532099.94692 0
+["xelatex"] 1759768102.39208 "main_ieee.tex" "build/main_ieee.xdv" "main_ieee" 1759768108.23389 0
   "C:/Users/USER/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1759440658 27042096 54ffd3c8e5400537d0ceb4d14ea2462f ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1754220793 146665 9149bce97203d4030d7cbe4f4e85dfc4 ""
@@ -105,15 +105,15 @@
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "build/main_ieee.aux" 1759532098 5880 4c54f3fe8254967291b6699924ae71e7 "xelatex"
-  "build/main_ieee.bbl" 1759532081 8941 2c5bc75093ad88e85205ea8e4a1bdc8d "biber build/main_ieee"
-  "build/main_ieee.out" 1759532098 4476 de53a4da5d5a3cf89d27ac412c5de91a "xelatex"
-  "build/main_ieee.run.xml" 1759532098 2485 0ba1907dbee54dff766aca4568862115 "xelatex"
+  "build/main_ieee.aux" 1759768107 5880 59a5c71ef74f30b97006a418decfe891 "xelatex"
+  "build/main_ieee.bbl" 1759768092 8941 2c5bc75093ad88e85205ea8e4a1bdc8d "biber build/main_ieee"
+  "build/main_ieee.out" 1759768107 4476 de53a4da5d5a3cf89d27ac412c5de91a "xelatex"
+  "build/main_ieee.run.xml" 1759768107 2485 0ba1907dbee54dff766aca4568862115 "xelatex"
   "graphics/MVC.pdf" 1759530517 43293 67cf5e961f0c567426e66daf444a798d ""
   "graphics/SCRUM.pdf" 1759530419 48370 5b4f5c10459bc525510bc119f493b9f8 ""
   "includes/preamble_common.tex" 1759433242 1297 07518923b9f4f85072fe97d52092a43e ""
   "includes/preamble_ieee.tex" 1759433242 197 573056a63be43d00a6086c02eb744e4f ""
-  "main_ieee.tex" 1759501819 932 31985736dd3c19885ad2beddb042575c ""
+  "main_ieee.tex" 1759768006 1008 906d6600daf3087822ee4afc45876732 ""
   "sections/00_abstract.tex" 1759501826 1144 4a53d3680a393c9ecdaa18d21c9cbe6c ""
   "sections/01_introduccion.tex" 1759531537 1793 bee3a875f6e8ce0da7e38cfb392ce199 ""
   "sections/02_relacionados.tex" 1759531564 4975 0859252d0f40ecbef0a0a8535da055a7 ""

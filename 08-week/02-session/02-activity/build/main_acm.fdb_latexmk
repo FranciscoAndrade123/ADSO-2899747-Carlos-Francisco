@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex build/main_acm"] 1759532136.98104 "build/main_acm.aux" "build/main_acm.bbl" "build/main_acm" 1759532158.4846 0
+["bibtex build/main_acm"] 1759768146.11389 "build/main_acm.aux" "build/main_acm.bbl" "build/main_acm" 1759768157.68973 0
   "./bibliography/references.bib" 1759501844 1464 178e19f59a8a969d686533fe002a5ac7 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/bibtex/bst/acmart/ACM-Reference-Format.bst" 1756554152 93560 12e0ced1522ea2bfa9b2fb12855c7e9e ""
-  "build/main_acm.aux" 1759532155 5220 cde9be3d37a22605eadfe98c06e7154f "xelatex"
+  "build/main_acm.aux" 1759768155 5220 cde9be3d37a22605eadfe98c06e7154f "xelatex"
   (generated)
   "build/main_acm.bbl"
   "build/main_acm.blg"
   (rewritten before read)
-["xdvipdfmx"] 1759532157.43579 "build/main_acm.xdv" "build/main_acm.pdf" "build/main_acm" 1759532158.50546 0
-  "build/main_acm.xdv" 1759532155 205948 597378a68a802f647b5e9af150d5f4f6 "xelatex"
+["xdvipdfmx"] 1759768157.17061 "build/main_acm.xdv" "build/main_acm.pdf" "build/main_acm" 1759768157.70479 0
+  "build/main_acm.xdv" 1759768155 206080 f95fd3640da27df157361e8aaed96650 "xelatex"
   (generated)
   "build/main_acm.pdf"
   (rewritten before read)
-["xelatex"] 1759532137.95861 "main_acm.tex" "build/main_acm.xdv" "main_acm" 1759532158.48532 0
+["xelatex"] 1759768146.60223 "main_acm.tex" "build/main_acm.xdv" "main_acm" 1759768157.69035 0
   "C:/Users/USER/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1759440658 27042096 54ffd3c8e5400537d0ceb4d14ea2462f ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -149,15 +149,15 @@
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "build/main_acm.aux" 1759532155 5220 cde9be3d37a22605eadfe98c06e7154f "xelatex"
-  "build/main_acm.bbl" 1759532137 4277 7f211c32a344f0337f05d3ae06476a16 "bibtex build/main_acm"
-  "build/main_acm.log" 1759532155 94029 9713a2e53360bec78e57262614576ded "xelatex"
-  "build/main_acm.out" 1759532155 4727 f76369f16f1f6d4adb9561e365627f36 "xelatex"
+  "build/main_acm.aux" 1759768155 5220 cde9be3d37a22605eadfe98c06e7154f "xelatex"
+  "build/main_acm.bbl" 1759768146 4277 7f211c32a344f0337f05d3ae06476a16 "bibtex build/main_acm"
+  "build/main_acm.log" 1759768155 94029 75c0a9ed0d2ba035a626067408113d56 "xelatex"
+  "build/main_acm.out" 1759768155 4727 f76369f16f1f6d4adb9561e365627f36 "xelatex"
   "graphics/MVC.pdf" 1759530517 43293 67cf5e961f0c567426e66daf444a798d ""
   "graphics/SCRUM.pdf" 1759530419 48370 5b4f5c10459bc525510bc119f493b9f8 ""
   "includes/preamble_acm.tex" 1759433242 118 3f1ba5b5d56dca6cd0336ca2b9c163d0 ""
   "includes/preamble_common.tex" 1759433242 1297 07518923b9f4f85072fe97d52092a43e ""
-  "main_acm.tex" 1759501991 1016 824bf021ee41bc0872853eec562cc7e0 ""
+  "main_acm.tex" 1759768023 1044 12178573cecb995a3aa4086b43ab5aaa ""
   "sections/00_abstract.tex" 1759501826 1144 4a53d3680a393c9ecdaa18d21c9cbe6c ""
   "sections/01_introduccion.tex" 1759531537 1793 bee3a875f6e8ce0da7e38cfb392ce199 ""
   "sections/02_relacionados.tex" 1759531564 4975 0859252d0f40ecbef0a0a8535da055a7 ""

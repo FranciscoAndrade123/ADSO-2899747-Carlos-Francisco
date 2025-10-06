@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber build/main_apa7"] 1759532170.2244 "build/main_apa7.bcf" "build/main_apa7.bbl" "build/main_apa7" 1759532207.10871 0
+["biber build/main_apa7"] 1759768166.47328 "build/main_apa7.bcf" "build/main_apa7.bbl" "build/main_apa7" 1759768190.96121 0
   "bibliography/references.bib" 1759501844 1464 178e19f59a8a969d686533fe002a5ac7 ""
-  "build/main_apa7.bcf" 1759532205 134853 c0c13379255c0cba0777e1c973605c28 "xelatex"
+  "build/main_apa7.bcf" 1759768189 134853 c0c13379255c0cba0777e1c973605c28 "xelatex"
   (generated)
   "build/main_apa7.bbl"
   "build/main_apa7.blg"
   (rewritten before read)
-["xdvipdfmx"] 1759532206.4706 "build/main_apa7.xdv" "build/main_apa7.pdf" "build/main_apa7" 1759532207.13639 0
-  "build/main_apa7.xdv" 1759532205 185820 8f37cac9d1bc0535ca77bbf083d2b595 "xelatex"
+["xdvipdfmx"] 1759768190.47374 "build/main_apa7.xdv" "build/main_apa7.pdf" "build/main_apa7" 1759768190.98053 0
+  "build/main_apa7.xdv" 1759768189 186252 5e63d0ada6dc62e5c1df86e565bd46a4 "xelatex"
   (generated)
   "build/main_apa7.pdf"
   (rewritten before read)
-["xelatex"] 1759532196.37557 "main_apa7.tex" "build/main_apa7.xdv" "main_apa7" 1759532207.1095 0
+["xelatex"] 1759768183.58988 "main_apa7.tex" "build/main_apa7.xdv" "main_apa7" 1759768190.96178 0
   "C:/Users/USER/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1759440658 27042096 54ffd3c8e5400537d0ceb4d14ea2462f ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/ec-lmr12.tfm" 1256929440 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
@@ -204,16 +204,16 @@
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "build/main_apa7.aux" 1759532205 6246 b2385f49cf31545e2329131c5a87ae0c "xelatex"
-  "build/main_apa7.bbl" 1759532175 19501 dcbe4b1b8cb7d66edbe7b8be6690ba65 "biber build/main_apa7"
-  "build/main_apa7.fff" 1759532204 415 10560bb9cd7687211fce64ad8f487a61 "xelatex"
-  "build/main_apa7.out" 1759532205 4368 55f58043fedabde2c77b926bb994e3a4 "xelatex"
-  "build/main_apa7.run.xml" 1759532205 2442 31f193e8afeb02e558f8318341b00aef "xelatex"
+  "build/main_apa7.aux" 1759768189 6246 b2385f49cf31545e2329131c5a87ae0c "xelatex"
+  "build/main_apa7.bbl" 1759768169 19501 dcbe4b1b8cb7d66edbe7b8be6690ba65 "biber build/main_apa7"
+  "build/main_apa7.fff" 1759768189 415 10560bb9cd7687211fce64ad8f487a61 "xelatex"
+  "build/main_apa7.out" 1759768189 4368 55f58043fedabde2c77b926bb994e3a4 "xelatex"
+  "build/main_apa7.run.xml" 1759768189 2442 31f193e8afeb02e558f8318341b00aef "xelatex"
   "graphics/MVC.pdf" 1759530517 43293 67cf5e961f0c567426e66daf444a798d ""
   "graphics/SCRUM.pdf" 1759530419 48370 5b4f5c10459bc525510bc119f493b9f8 ""
   "includes/preamble_apa7.tex" 1759433242 164 9dc229ec09603f7c360024b06d3d1ae7 ""
   "includes/preamble_common.tex" 1759433242 1297 07518923b9f4f85072fe97d52092a43e ""
-  "main_apa7.tex" 1759502008 921 e50ab9186626659bd1b38cdce67c53ba ""
+  "main_apa7.tex" 1759768039 995 9bf8aadf767ce702beba2bf52820fcd0 ""
   "sections/00_abstract.tex" 1759501826 1144 4a53d3680a393c9ecdaa18d21c9cbe6c ""
   "sections/01_introduccion.tex" 1759531537 1793 bee3a875f6e8ce0da7e38cfb392ce199 ""
   "sections/02_relacionados.tex" 1759531564 4975 0859252d0f40ecbef0a0a8535da055a7 ""
